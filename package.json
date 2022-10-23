@@ -1,5 +1,5 @@
 {
-  "name": "@ampretia/x509",
+  "name": "x509.cui",
   "version": "0.4.8",
   "description": "Simple X509 certificate parser; forked verion from Southern/x509",
   "author": "Colton Baker",
@@ -13,7 +13,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ampretia/node-x509.git"
+    "url": "git@github.com:jilongcui/node-x509.git"
   },
   "scripts": {
     "lint": "eslint .",
